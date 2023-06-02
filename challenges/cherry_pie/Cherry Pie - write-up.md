@@ -1,5 +1,5 @@
 ## Overview
-![[cherry_pie_main.png]]
+![[../../static/images/cherry_pie_main.png]]
 
 We have PIE and a canary to bypass
 
