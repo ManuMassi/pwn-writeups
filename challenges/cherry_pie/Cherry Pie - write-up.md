@@ -1,5 +1,5 @@
 ## Overview
-[Decompiled code](/static/images/cherry_pie_main.png)
+![Decompiled code](/static/images/cherry_pie_main.png)
 
 We have PIE and a canary to bypass
 
